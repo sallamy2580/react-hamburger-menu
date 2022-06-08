@@ -1,0 +1,711 @@
+[
+  {
+    "icons": [
+      {
+        "name": "heroicons",
+        "desc": "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.",
+        "img": "./img/hero-icons.jpg",
+        "width": "1200",
+        "height": "600",
+        "url": "https://heroicons.com/",
+        "id": 1
+      },
+      {
+        "name": "Father Icons",
+        "desc": "Simply beautiful open source icons",
+        "img": "./img/feather-og.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://feathericons.com/",
+        "id": 2
+      },
+      {
+        "name": "Boxicons",
+        "desc": "Boxicons is a simple vector icons set carefully crafted for designers and developers to use in your next project. No attribution required.",
+        "img": "./img/boxi-icons.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://boxicons.com/",
+        "id": 3
+      },
+      {
+        "name": "Ionicons: Open source icons. Lovingly hand-crafted.",
+        "desc": "Premium designed icons for use in web, iOS, Android, and desktop apps. Support for SVG and web font. Completely open source, MIT licensed and built by Ionic.",
+        "img": "./img/ionicons-og.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://ionic.io/ionicons",
+        "id": 4
+      },
+      {
+        "name": "Animated icons 2.0",
+        "desc": "900+ animated icons to make your projects exceptional.",
+        "img": "./img/icons8.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://icons8.com/animated-icons",
+        "id": 5
+      },
+      {
+        "name": "Tabler ICONS",
+        "desc": "Over 1250 pixel-perfect icons for web design",
+        "img": "./img/tabler-icons.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://tabler-icons.io/",
+        "id": 6
+      },
+      {
+        "name": "Remix Icon",
+        "desc": "Simply Delightful Icon System. \n  Remix Icon is a set of open-source neutral-style system symbols elaborately crafted for designers and developers.",
+        "img": "./img/remix-icon.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://remixicon.com/",
+        "id": 7
+      },
+      {
+        "name": "heroicons",
+        "desc": " A set of 450+ free MIT-licensed high-quality SVG icons for you to use in your web projects.",
+        "img": "./img/heroicons.svg",
+        "width": "1200",
+        "height": "600",
+        "url": "https://heroicons.dev/",
+        "id": 8
+      },
+      {
+        "name": "MaterialIcons",
+        "desc": " Material Icons are available in five styles and a range of downloadable sizes and densities. The icons are based on the core Material Design principles and metrics.",
+        "img": "./img/google-icons.webp",
+        "width": "1200",
+        "height": "600",
+        "url": "https://fonts.google.com/icons",
+        "id": 9
+      }
+    ],
+    "ilustraciones": [
+      {
+        "name": "illlustrations",
+        "desc": "Open source illustrations kit. \n Designed 100 awesome illustrations during 100 days of illustration challenge (Now added more than 120+ illustrations).",
+        "img": "./img/illlustrations.jpg",
+        "width": "1200",
+        "height": "600",
+        "url": "https://illlustrations.co/",
+        "id": 1
+      },
+      {
+        "name": "free illustrations",
+        "desc": "A free vector illustration pack about social movements, Black Lives Matter, equality, feminism, LGBTQ+, and protests.",
+        "img": "./img/freeillustrations.webp",
+        "width": "1200",
+        "height": "600",
+        "url": "https://freeillustrations.xyz/",
+        "id": 2
+      },
+      {
+        "name": "Stubborn",
+        "desc": "Get the opportunity to design your characters using our generator absolutely for free.",
+        "img": "./img/stubborn.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://stubborn.fun/",
+        "id": 3
+      },
+      {
+        "name": "unDraw",
+        "desc": "Browse to find the images that fit your needs and click to download. Use the on-the-fly color image generation to match your brand identity.",
+        "img": "./img/undraw.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://undraw.co/",
+        "id": 4
+      },
+      {
+        "name": "manypixels",
+        "desc": "Discover new illustrations every week. Use them on landing pages, blog posts, newsletters, social media graphics and more!",
+        "img": "./img/manypixels.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://www.manypixels.co/gallery",
+        "id": 5
+      },
+      {
+        "name": "UI STORE DESIGN",
+        "desc": "594 Free Handpicked UI Kits for your real life projects.",
+        "img": "./img/uistore-design.jpg",
+        "width": "1200",
+        "height": "600",
+        "url": "https://www.uistore.design/",
+        "id": 6
+      },
+      {
+        "name": "storyset",
+        "desc": "Awesome free customizable illustrations for your next project.",
+        "img": "./img/storyset.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://storyset.com/",
+        "id": 7
+      },
+      {
+        "name": "OUTLANE",
+        "desc": "Elegant Solutions for Ecommerce.",
+        "img": "./img/outlane.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://outlane.co",
+        "id": 8
+      },
+      {
+        "name": "Storytale",
+        "desc": "High-class web illustrations under simple subscription.",
+        "img": "./img/storytale.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://storytale.io",
+        "id": 9
+      },
+      {
+        "name": "blobmaker",
+        "desc": "Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes.",
+        "img": "./img/blobmaker.jpg",
+        "width": "1200",
+        "height": "600",
+        "url": "https://www.blobmaker.app/",
+        "id": 10
+      },
+      {
+        "name": "Get Waves",
+        "desc": "Make some waves!",
+        "img": "./img/getwaves.jpg",
+        "width": "1200",
+        "height": "600",
+        "url": "https://getwaves.io/",
+        "id": 11
+      }
+    ],
+    "ui_design": [
+      {
+        "name": "Glassmorphism",
+        "desc": "Glassmorphism is a unified name for the popular Frosted Glass aesthetic. It has many names depending on the company using it, so we wanted to create a common ground for designers and developers to find related resources easier and faster.",
+        "img": "./img/glassmorphism.jpeg",
+        "width": "1200",
+        "height": "600",
+        "url": "https://glassmorphism.com/",
+        "id": 1
+      },
+      {
+        "name": "Haikei",
+        "desc": "Haikei is built around generators. Each generator has a unique set of properties and features to help you discover and create unlimited design assets.",
+        "img": "./img/haikei-cover.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://app.haikei.app/",
+        "id": 2
+      },
+      {
+        "name": "Checklist Design",
+        "desc": "A collection of the best design practices.",
+        "img": "./img/checklist-design.jpg",
+        "width": "1200",
+        "height": "600",
+        "url": "https://www.checklist.design/",
+        "id": 3
+      },
+      {
+        "name": "The Best Landing Page Design Inspiration, Templates, Resources and More",
+        "desc": "Landingfolio features the best landing page inspiration, templates, resources and examples on the web. Learn from a growing library of 1,982 landing page designs and 3,829 component examples, updated daily!",
+        "img": "./img/landingfolio.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://www.landingfolio.com/",
+        "id": 4
+      },
+      {
+        "name": "Customize and apply backgrounds fast",
+        "desc": "SVGs enable full-screen hi-res visuals with a file-size near 5KB and are well-supported by all modern browsers. What's not to love?",
+        "img": "./img/svg-backgrounds.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://www.svgbackgrounds.com/",
+        "id": 5
+      },
+      {
+        "name": "Wickedtemplates. Landing pages for your next projects",
+        "desc": "You're about to launch and must be 100% focused on your product. Don't lose precious days designing a landing page and testing. Instead, get one and speed up the process.",
+        "img": "./img/wickedtemplates.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://www.wickedtemplates.com/",
+        "id": 6
+      },
+      {
+        "name": "Custom Shape Dividers",
+        "desc": "We created this free tool to make it easier for designers and developers to export a beautiful SVG shape divider for their latest project. We hope you enjoy this tool.",
+        "img": "./img/shapedivider.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://www.shapedivider.app/",
+        "id": 7
+      },
+      {
+        "name": "One Page Love",
+        "desc": "One Page websites, templates and resources",
+        "img": "./img/onepagelove.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://onepagelove.com/",
+        "id": 8
+      },
+      {
+        "name": "Bite sized learning",
+        "desc": "Browse hundreds of booklets on design, business, freelancing & more. Learn new skills & insights, fast.",
+        "img": "./img/booklets.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://www.booklets.io/",
+        "id": 9
+      },
+      {
+        "name": "COLLECTUI",
+        "desc": "Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily.",
+        "img": "./img/collectui.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://collectui.com/",
+        "id": 10
+      },
+      {
+        "name": "UIPRINT",
+        "desc": "Get printable wireframes, mockup and sketchpads.",
+        "img": "./img/uiprint.jpg",
+        "width": "1200",
+        "height": "600",
+        "url": "https://uiprint.co/",
+        "id": 11
+      },
+      {
+        "name": "Lottie",
+        "desc": "Easily add high-quality animation to any native app.",
+        "img": "./img/lottie.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://airbnb.design/lottie/",
+        "id": 12
+      },
+      {
+        "name": "The gooey effect for React",
+        "desc": "The 'gooey effect' has been made popular by various (amazing) blogposts over the years. This tiny component makes it easy to use within React, and has improved the implementation as much as possible. It's optimized to be as sharp/crisp as possible, since existing implementations can be a bit blurry. Safari support (which can be notorious, and is usually missing) has been added as well.",
+        "img": "./img/gooey-react.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://gooey-react.netlify.app/",
+        "id": 13
+      },
+      {
+        "name": "Lottie Flow",
+        "desc": "Downloadable Lottie files that work like magic on your Webflow site",
+        "img": "./img/lottieflow.jpg",
+        "width": "1200",
+        "height": "600",
+        "url": "https://www.finsweet.com/lottieflow/",
+        "id": 14
+      }
+    ],
+    "learn": [
+      {
+        "name": "HTML Reference",
+        "desc": "Learn by example: htmlreference.io is a free guide to HTML. It features all elements and attributes.",
+        "img": "./img/html-reference.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://htmlreference.io/",
+        "id": 1
+      },
+      {
+        "name": "CSS Reference",
+        "desc": "Learn by example: cssreference.io is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.",
+        "img": "./img/css-reference.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://cssreference.io/",
+        "id": 2
+      },
+      {
+        "name": "MarkSheet",
+        "desc": "A free HTML & CSS Tutorial.",
+        "img": "./img/marksheet.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://marksheet.io/",
+        "id": 3
+      },
+      {
+        "name": "The Modern JavaScript Tutorial",
+        "desc": "How it's done now. From the basics to advanced topics with simple, but detailed explanations.",
+        "img": "./img/javascript-info.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://javascript.info/",
+        "id": 4
+      },
+      {
+        "name": "DEBHINTS",
+        "desc": "Rico's cheatsheets.",
+        "img": "./img/devhints.jpg",
+        "width": "1200",
+        "height": "600",
+        "url": "https://devhints.io/",
+        "id": 5
+      },
+      {
+        "name": "freeCodeCamp's",
+        "desc": "freeCodeCamp is a proven path to your first software developer job.",
+        "img": "./img/freecodecamp.png",
+        "width": "1200",
+        "height": "600",
+        "url": "freecodecamp.org/learn",
+        "id": 6
+      },
+      {
+        "name": "Learn Flexbox for free | SCRIMBA",
+        "desc": "This tutorial teaches you CSS Flexbox through 12 interactive screencasts. You'll learn all the key concept in addition to building a responsive navbar and a neat image grid.",
+        "img": "./img/scrimba.webp",
+        "width": "1200",
+        "height": "600",
+        "url": "https://scrimba.com/learn/flexbox",
+        "id": 7
+      },
+      {
+        "name": "The Odin Project",
+        "desc": "Your Career in Web Development Starts Here.",
+        "img": "./img/theodinproject.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://www.theodinproject.com/home",
+        "id": 8
+      },
+      {
+        "name": "Enlight",
+        "desc": "Enlight is the educational platform for cohort-based courses focused on development. ",
+        "img": "./img/enlight.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://enlight.nyc/",
+        "id": 9
+      },
+      {
+        "name": "Interneting is hard",
+        "desc": "Friendly web development tutorials for complete beginners",
+        "img": "./img/internetingishard.jpg",
+        "width": "1200",
+        "height": "600",
+        "url": "https://www.internetingishard.com/",
+        "id": 10
+      },
+      {
+        "name": "FLEXBOX FROGGY",
+        "desc": "Flexbox Froggy, a game where you help Froggy and friends by writing CSS code! ",
+        "img": "./img/flexboxfroggy.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://flexboxfroggy.com/",
+        "id": 11
+      },
+      {
+        "name": "Learn | web.dev",
+        "desc": "Explore our structured learning paths to discover everything you need to know about building for the modern web.",
+        "img": "./img/web-dev.jpg",
+        "width": "1200",
+        "height": "600",
+        "url": "https://web.dev/learn/",
+        "id": 12
+      }
+    ],
+    "blogs": [
+      {
+        "name": "BLOG | web.dev",
+        "desc": "Our latest news, updates, and stories for developers",
+        "img": "./img/web-dev.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://web.dev/blog/",
+        "id": 1
+      },
+      {
+        "name": "CSS-Tricks",
+        "desc": "Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.",
+        "img": "./img/css-tricks.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://css-tricks.com/",
+        "id": 2
+      },
+      {
+        "name": "LogRocket",
+        "desc": "LogRocket helps you understand problems affecting your users, so that you can get back to building great software.",
+        "img": "./img/logrocket-blog.webp",
+        "width": "1200",
+        "height": "600",
+        "url": "https://blog.logrocket.com/",
+        "id": 3
+      },
+      {
+        "name": "KIRUPA",
+        "desc": "Kirupa and an awesome team have helped millions of smart cookies ( ) like you become a better web developer.",
+        "img": "./img/kirupa.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://www.kirupa.com/",
+        "id": 4
+      },
+      {
+        "name": "Web Development | freecodecamp Blog",
+        "desc": "Kirupa and an awesome team have helped millions of smart cookies ( ) like you become a better web developer.",
+        "img": "./img/freecodecamp.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://www.freecodecamp.org/news/tag/web-development/",
+        "id": 5
+      }
+    ],
+    "colors": [
+      {
+        "name": "HTML COLOR CODES",
+        "desc": "Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names. Let's go!",
+        "img": "./img/html-color.jpg",
+        "width": "1200",
+        "height": "600",
+        "url": "https://htmlcolorcodes.com/",
+        "id": 1
+      },
+      {
+        "name": "coolors",
+        "desc": "Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names. Let's go!",
+        "img": "./img/coolors.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://coolors.co/",
+        "id": 2
+      },
+      {
+        "name": "FLAT UI COLORS",
+        "desc": "It aims to categorize and make it easy to get quick inspiration. It features more than 13.000 designs and updating every day.",
+        "img": "./img/flat-colors.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://flatuicolors.com/",
+        "id": 3
+      },
+      {
+        "name": "FLAT UI COLORS",
+        "desc": "A handpicked collection of beautiful color gradients for designers and developers​.",
+        "img": "./img/uigradients.jpg",
+        "width": "1200",
+        "height": "600",
+        "url": "https://uigradients.com/",
+        "id": 4
+      },
+      {
+        "name": "Colorsinspo",
+        "desc": "Colorsinspo is all in one resource to find everything about colors with extreme ease.",
+        "img": "./img/colorsinspo.jpg",
+        "width": "1200",
+        "height": "600",
+        "url": "https://colorsinspo.com/",
+        "id": 5
+      },
+      {
+        "name": "Color Space",
+        "desc": "Here you can find the perfect matching color scheme for your next project! ",
+        "img": "./img/ColorSpace.webp",
+        "width": "1200",
+        "height": "600",
+        "url": "https://mycolor.space/",
+        "id": 6
+      }
+    ],
+    "various": [
+      {
+        "name": "Coding Fonts",
+        "desc": "Information about coding fonts: designers, character charts, features, and more.",
+        "img": "",
+        "width": "1200",
+        "height": "600",
+        "url": "https://coding-fonts.css-tricks.com/fonts/anonymous-pro/?theme=dark",
+        "id": 1
+      },
+      {
+        "name": "Fullpage Javascript Navigation HOC with React Awesome Slider",
+        "desc": "Fullpage navigation HOC with 3D animated transitions built on top of React Awesome Slider. GatsbyJS and NextJS recipes available.",
+        "img": "./img/fullscreen.gif",
+        "width": "1200",
+        "height": "600",
+        "url": "https://fullpage.caferati.me/",
+        "id": 2
+      },
+      {
+        "name": "Animated hamburger menu icons for React",
+        "desc": "Hamburger menu icons for React, with CSS-driven transitions. Created to be as elegant and performant as possible. ",
+        "img": "./img/hamburger-react.jpg",
+        "width": "1200",
+        "height": "600",
+        "url": "https://hamburger-react.netlify.app/",
+        "id": 3
+      },
+      {
+        "name": "The Best React Notifications in Town",
+        "desc": "Add beautiful notifications to your React app with react-hot-toast. Lightweight. Smoking hot by default.",
+        "img": "./img/toast.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://react-hot-toast.com/",
+        "id": 4
+      },
+      {
+        "name": "Can I use... Support tables for HTML5, CSS3, etc",
+        "desc": "\"Can I use\" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.",
+        "img": "./img/i-can-use.jpg",
+        "width": "1200",
+        "height": "600",
+        "url": "https://caniuse.com/",
+        "id": 5
+      },
+      {
+        "name": "SWR",
+        "desc": "SWR is a React Hooks library for data fetching. ",
+        "img": "./img/swr.jpg",
+        "width": "1200",
+        "height": "600",
+        "url": "https://swr.vercel.app/es-ES",
+        "id": 6
+      },
+      {
+        "name": "React Query",
+        "desc": "Performant and powerful data synchronization for React",
+        "img": "./img/react-query.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://react-query.tanstack.com/",
+        "id": 7
+      },
+      {
+        "name": "React Tour",
+        "desc": "Tourist Guide into your React Components.",
+        "img": "./img/react-tour.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://reactour.js.org/",
+        "id": 8
+      },
+      {
+        "name": "Docusaurus",
+        "desc": "Build optimized websites quickly, focus on your content.",
+        "img": "./img/docusaurus.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://docusaurus.io/",
+        "id": 9
+      },
+      {
+        "name": "React Spring",
+        "desc": "react-spring is a spring-physics based animation library that should cover most of your UI related animation needs. ",
+        "img": "./img/react-spring.jpg",
+        "width": "1200",
+        "height": "600",
+        "url": "https://react-spring.io/",
+        "id": 10
+      },
+      {
+        "name": "Framer Motion",
+        "desc": "Framer Motion is a production-ready React animation and gesture library.",
+        "img": "./img/motion.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://www.framer.com/motion/",
+        "id": 11
+      },
+      {
+        "name": "DevDojo: Dev Community",
+        "desc": "Learn web development and design with our on-demand video platform. Learn development through our developer courses and developer videos.",
+        "img": "",
+        "width": "1200",
+        "height": "600",
+        "url": "https://devdojo.com/",
+        "id": 12
+      },
+      {
+        "name": "Webframe: Beautiful web app screenshots",
+        "desc": "A showcase of beautiful and well designed web app screens for design inspiration. Including screens from behind signup/paywalls!",
+        "img": "./img/webframe.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://webframe.xyz/",
+        "id": 13
+      },
+      {
+        "name": "untools | Tools for better thinking",
+        "desc": "Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.",
+        "img": "./img/untools.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://untools.co/",
+        "id": 14
+      },
+      {
+        "name": "Free Profile Picture Maker",
+        "desc": "Get more job offers and leads with a professional looking profile picture.",
+        "img": "./img/pfpmaker.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://pfpmaker.com/",
+        "id": 15
+      },
+      {
+        "name": "A11y Coffee",
+        "desc": "The introduction on web accessibility that I want to give every single web developer.",
+        "img": "./img/a11y-coffee.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://a11y.coffee/",
+        "id": 16
+      },
+      {
+        "name": "React Hook Form - Simple React forms validation",
+        "desc": "React hook for form validation without the hassle.",
+        "img": "./img/react-hook-form.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://react-hook-form.com/",
+        "id": 17
+      },
+      {
+        "name": "NProgress: slim progress bars in JavaScript",
+        "desc": "A nanoscopic progress bar. Featuring realistic trickle animations to convince your users that something is happening! ",
+        "img": "./img/nprogress.png",
+        "width": "1200",
+        "height": "600",
+        "url": "https://ricostacruz.com/nprogress/",
+        "id": 18
+      },
+      {
+        "name": "Animate.css | A cross-browser library of CSS animations.",
+        "desc": "Animate.css is a library of ready-to-use, cross-browser animations for you to use in your projects. ",
+        "img": "",
+        "width": "1200",
+        "height": "600",
+        "url": "https://animate.style/",
+        "id": 19
+      },
+      {
+        "name": "Coupon.io",
+        "desc": "Generate Coupon-UI CSS code",
+        "img": "./img/coupon-io.jpg",
+        "width": "1200",
+        "height": "600",
+        "url": "https://coupon.codelabo.cn/",
+        "id": 20
+      }
+    ]
+  }
+]

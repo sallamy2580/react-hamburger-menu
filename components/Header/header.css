@@ -1,0 +1,44 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1em 1.5em;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: white;
+  /* background: rgba(255, 255, 255, 0.25); */
+  /* box-shadow: 0 8px 32px 0 rgb(31 38 135 / 37%); */
+  box-shadow: 0 1px 10px 0 rgb(31 38 135 / 37%);
+  /* backdrop-filter: blur(4px); */
+  /* backdrop-filter: blur(30px); */
+  /* -webkit-backdrop-filter: blur(30px); */
+  /* border-radius: 10px; */
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.header .logo-name {
+  margin: 0;
+  padding: 0;
+  font-size: 1.2em;
+}
+.menu {
+  background: transparent;
+  border: none;
+}
+.hamburger {
+  width: 30px;
+  cursor: pointer;
+  user-select: none;
+  vertical-align: middle;
+}
+input {
+  display: none;
+}
+.fixed {
+  position: fixed;
+}
+@media (min-width: 768px) {
+  .header {
+    display: none;
+  }
+}

@@ -1,0 +1,68 @@
+.section-main {
+  margin: 0 1em;
+}
+.title-section {
+  font-size: clamp(25px, 5vw, 35px);
+  font-weight: 700;
+  margin: 0.8rem 0.5em;
+  letter-spacing: 0.05em;
+  color: var(--bgPrimary);
+}
+.cards {
+  -webkit-columns: 300px;
+  -moz-columns: 300px;
+  columns: 300px;
+  -webkit-column-gap: 1em;
+  -moz-column-gap: 1em;
+  column-gap: 1em;
+  margin: 1em;
+}
+.item-link {
+  display: block;
+  background: white;
+  border-radius: 1em;
+  overflow: hidden;
+  color: var(--black);
+  margin-bottom: 1em;
+  -webkit-column-break-inside: avoid;
+  page-break-inside: avoid;
+  break-inside: avoid;
+  transition: all 0.2s linear;
+  /* box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06); */
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  /* border: 1px solid transparent */
+}
+
+.item-link:hover h3 {
+  color: var(--bgPrimary);
+}
+.item-link img {
+  object-fit: cover;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  width: 100%;
+  transition: all 0.2s linear;
+  filter: saturate(0.8);
+}
+.item-link:hover img {
+  filter: saturate(1.6);
+}
+.item-desc {
+  padding: 1rem 1.5rem;
+}
+.item-desc h3 {
+  font-weight: 600;
+  font-size: clamp(20px, 5vw, 25px);
+  margin-bottom: 1rem;
+}
+@media (min-width: 768px) {
+  .section-main {
+    margin-left: 310px;
+    margin-right: 10px;
+  }
+}
+
+.item-text {
+  font-weight: 500;
+}
